@@ -47,4 +47,9 @@
 <img href="https://raw.githubusercontent.com/BrielCuesta/BrielCuesta/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BrielCuesta/count.svg?"  />
+</div>
+
+###

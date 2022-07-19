@@ -44,7 +44,8 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/BrielCuesta/BrielCuesta/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 

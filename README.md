@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I live in Brazil, São Paulo :)<br>I'm graduated in software development<br> I am a Back-End Developer with some Front-end Skills</p>
+<p align="left">I live in Brazil, São Paulo :)<br>I'm graduated in software development<br> I am a FullStack Dev</p>
 
 ###
 
